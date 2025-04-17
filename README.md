@@ -17,7 +17,7 @@ An interactive app designed for Dart coding practice with 15+ challenges ranging
 - Rewards on challenge completion 🎯
 - Problems like: Prime Checker, Two Sum, Reverse String, etc.
 
-📥 [APK available in Releases](https://github.com/nihal1762/flutter-practice-projects-nihal/releases)
+📥 [APK available in Releases](https://github.com/nihal1762/flutter_practice_projects/releases/tag/v1.0)
 
 ---
 
@@ -32,7 +32,7 @@ A feature-rich learning app intended to provide:
 
 🔧 This app is still under development. Some modules like Quiz & Progress are not yet implemented.
 
-📥 [APK available in Releases](https://github.com/nihal1762/flutter-practice-projects/releases)
+📥 [APK available in Releases](https://github.com/nihal1762/flutter_practice_projects/releases/tag/v1.0)
 
 ---
 
